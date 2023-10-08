@@ -16,3 +16,12 @@ Using Tableau, I have created a simple Spotify playlist dashboard to visualize p
 Note:
 ----
 My Spotify dataset is also provided for reference purposes, feel free to use it
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/0ff9d274-b45e-4a0f-b7d9-2ee368c807fd)
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/d82a548d-6951-43c9-8f59-de9fed83b19b)
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/8fa434e0-2b68-4000-8ecc-03eed68dd54e)
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/1d13a9d8-ca01-4658-86a5-1441283f1c74)
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/eef01a96-a594-4cff-996f-636d2b904ad1)
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/4b953ba6-a42e-497c-b463-2933bb8edff6)
+![image](https://github.com/keyasa/DataVisualisation/assets/104371719/b258d693-c458-438b-a49c-d8c0947ea764)
+
+https://github.com/keyasa/DataVisualisation/assets/104371719/b2fdaf75-331a-4f74-92b9-c7f6f359c660
