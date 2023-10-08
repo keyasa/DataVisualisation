@@ -5,7 +5,7 @@ Using Tableau, I have created a simple Spotify playlist dashboard to visualize p
     Spotify Top 50 global songs playlist, including the required columns by using Ms.Excel)
     
     Note to considered:Clean the dataset(ie delete null values,identify missing values and outliers and remove them) to get 
-    better visualisation results.
+    better visualization results.
     
     2.Import this dataset into Tableau.
     3.Create different sheets, with each containing various graphs and visualizations.
